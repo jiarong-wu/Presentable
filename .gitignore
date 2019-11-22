@@ -1,0 +1,15 @@
+*.jpg
+*.ppm
+*.png
+*.mpg
+*.dat
+*.pdf
+*.mp4
+*pickle*
+*~
+temp/
+matlab/
+__pycache__/*
+*/__pycache__/*
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
